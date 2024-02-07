@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reza Shahriari Benny </h1>
-<p align="center"><a href ="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Eager+to+collaborate+with+you+;++++++++++++++Web+3+Researcher+;I'm+a+programming+lover;A+Control-Science+Engineer+;Just+graduated+Electrical+Engineer" alt="Typing SVG" /></a>
+<p align="center"><a href ="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Eager+to+collaborate+with+you+;I'm+a+programming+lover;A+Control-Science+Engineer+;Just+graduated+Electrical+Engineer" alt="Typing SVG" /></a>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
   
 - 🌱 I’m currently learning Python and Machine Learning
