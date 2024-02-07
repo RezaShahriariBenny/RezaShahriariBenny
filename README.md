@@ -40,7 +40,7 @@
 
 <!-- Github Stats -->
 <div>
-  <img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaShahriariBenny&theme=vue-dark&show_icons=true&locale=en&layout=compact&hide_border=true" alt="RezaShahriariBenny most used languages" />
+  <img width="57%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaShahriariBenny&theme=vue-dark&show_icons=true&locale=en&layout=compact&hide_border=true" alt="RezaShahriariBenny most used languages" />
   <img width="57%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RezaShahriariBenny&theme=vue-dark&hide_border=true" alt="RezaShahriariBenny contributions" />
 </div>
 
