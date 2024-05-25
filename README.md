@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/r.s.benny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Reza_Shahriari_Benny_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reza-shahriari-benny/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Reza_Shahriari_Benny_" height="30" width="40"/></a>
 </p>
 
 <!-- Tools and Languages -->
